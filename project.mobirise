@@ -18331,6 +18331,9 @@
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
               }
+            },
+            ".mbr-gallery-item > div > span": {
+              "color": "#ffffff"
             }
           },
           "_name": "gallery1",
@@ -18424,7 +18427,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Escribir subtítulo aquí",
+                "caption": "<br>MEC<br>",
                 "active": false
               },
               {

@@ -18113,6 +18113,9 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rpXJQl1MR1 .mbr-gallery-item > div > span {
+  color: #ffffff;
+}
 .cid-rjmq3tc6tz {
   padding-top: 90px;
   padding-bottom: 90px;
